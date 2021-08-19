@@ -106,3 +106,7 @@ Multiple applications running on the same host may have conflicting dependencies
 - Kubectl rollout history deploy deploy-name - displays deployment revisions. 
 - Kubectl rollout status deploy deploy-name - to see the status of last rolledout deployment. 
 - Kubectl rollout undo deploy deploy-name --to-revision=3 - to roll back to specific revision number.
+
+
+A Guide to the Kubernetes Networking Model:
+https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
