@@ -109,5 +109,5 @@ Multiple applications running on the same host may have conflicting dependencies
 
 
 A Guide to the Kubernetes Networking Model:
-https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
+- https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/
 - https://opensource.com/article/22/6/kubernetes-networking-fundamentals
